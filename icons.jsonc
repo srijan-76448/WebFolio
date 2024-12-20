@@ -1,0 +1,22 @@
+{
+    "behance": "https://img.shields.io/badge/Behance-1769ff?style=$STYLE&logo=behance&logoColor=white",
+    "discord": "https://img.shields.io/badge/Discord-%237289DA.svg?style=$STYLE&logo=discord&logoColor=white",
+    "facebook": "https://img.shields.io/badge/Facebook-%231877F2.svg?style=$STYLE&logo=Facebook&logoColor=white",
+    "instagram": "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=$STYLE&logo=Instagram&logoColor=white",
+    "linkedin": "https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=$STYLE&logo=linkedin&logoColor=white",
+    "medium": "https://img.shields.io/badge/Medium-12100E?style=$STYLE&logo=medium&logoColor=white",
+    "pinterest": "https://img.shields.io/badge/Pinterest-%23E60023.svg?style=$STYLE&logo=Pinterest&logoColor=white",
+    "quora": "https://img.shields.io/badge/Quora-%23B92B27.svg?style=$STYLE&logo=Quora&logoColor=white",
+    "reddit": "https://img.shields.io/badge/Reddit-%23FF4500.svg?style=$STYLE&logo=Reddit&logoColor=white",
+    "stackoverflow": "https://img.shields.io/badge/-Stackoverflow-FE7A16?style=$STYLE&logo=stack-overflow&logoColor=white",
+    "tiktok": "https://img.shields.io/badge/TikTok-%23000000.svg?style=$STYLE&logo=TikTok&logoColor=white",
+    "twitch": "https://img.shields.io/badge/Twitch-%239146FF.svg?style=$STYLE&logo=Twitch&logoColor=white",
+    "x": "https://img.shields.io/badge/X-black.svg?style=$STYLE&logo=X&logoColor=white",
+    "youtube": "https://img.shields.io/badge/YouTube-%23FF0000.svg?style=$STYLE&logo=YouTube&logoColor=white",
+    "codepen": "https://img.shields.io/badge/Codepen-000000?style=$STYLE&logo=codepen&logoColor=white",
+    "mastodon": "https://img.shields.io/badge/-MASTODON-%232B90D9?style=$STYLE&logo=mastodon&logoColor=white",
+    "gmail": "https://img.shields.io/badge/Gmail-D14836?style=$STYLE&logo=gmail&logoColor=white",
+    "github": "https://img.shields.io/badge/GitHub-100000?style=$STYLE&logo=github&logoColor=white",
+    "gmap": "https://img.shields.io/badge/Google%20Maps-%23343a31.svg?style=$STYLE&logo=google-maps&logoColor=white",
+    "url": "https://img.shields.io/badge/URL-%23000000.svg?style=$STYLE&logo=URL&logoColor=white"
+}
